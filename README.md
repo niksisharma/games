@@ -1,1 +1,1 @@
-Simple Tic Tac Toe game coded using Python
+Tic Tac Toe game coded using Python

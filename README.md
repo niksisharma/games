@@ -1,1 +1,1 @@
-Simple Two player Tic Tac Toe game coded using Python
+Simple games coded on Python

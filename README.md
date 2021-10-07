@@ -3,3 +3,4 @@ Simple games coded on Python
 2) Hangman
 3) Rock Paper Scissors
 4) Card Game
+5) Blackjack
